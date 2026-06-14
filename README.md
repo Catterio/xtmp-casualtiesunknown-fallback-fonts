@@ -1,7 +1,7 @@
 # C:U Fallback Fonts
 
 ## Information
-These two fonts are intended to be metrically-compatible fallback fonts for Casualties: Unknown, where the glyph sets of fonts for the main user interface and health panel interface are expanded to support a lot more languages of Latin, Cyrillic scripts as well as Greek.
+These two fonts are intended to be metrically-compatible fallback fonts for Casualties: Unknown, where the glyph sets of fonts for the main user interface and health panel interface are expanded to support a lot more languages of Latin and Cyrillic scripts as well as Greek.
 
 Retro Gaming Plus is a direct extension of Retro Gaming, which is published without a license. Following that, no license is attached to Retro Gaming Plus as well.
 
