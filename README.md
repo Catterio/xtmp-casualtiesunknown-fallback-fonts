@@ -3,7 +3,7 @@
 ## Information
 These two fonts are intended to be metrically-compatible fallback fonts for Casualties: Unknown, where the glyph sets of fonts for the main user interface and health panel interface are expanded to support a lot more languages of Latin, Cyrillic scripts as well as Greek.
 
-Retro Gaming Plus is a direct extension of Retro Gaming, which was provided to the public without a license. Following that, no license is required for Retro Gaming Plus as well.
+Retro Gaming Plus is a direct extension of Retro Gaming, which is provided to the public without a license. Following that, no license is required for Retro Gaming Plus as well.
 
 I-pixel-u Plus was created independently from I pixel u, which is legally attached to a [FontStruct License](https://fontstruct.com/faq/5/licensing_legal_questions/an_overview_of_licensing) [(See original publication of I pixel u here)](https://fontstruct.com/fontstructions/show/1146323/i_pixel_u). I-pixel-u Plus, however, is made available to the public without license, essentially meaning public domain.
 
