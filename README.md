@@ -8,9 +8,9 @@ You will need to have XTMP already set up in order to add fallback fonts into th
 ## Usage guide
 
 1. Install the [BepInEx](https://github.com/BepInEx/BepInEx/releases) plugin. (Refer to this [KrokMP installation tutorial](https://youtu.be/heVTSZc2a20) for instructions on how to set up BepInEx.)
-2. Create a folder named `XTMP` inside `BepInEx/plugins`. Install `XTMP.dll` and `XTMP.pdb` from the [XTMP repository](https://github.com/kawalain/XTMP/releases/latest) and place them in the `XTMP` folder.
-3. Place the `.ttf` font files into the `XTMP` folder.
-4. Write a configuration file as provided below, then save it as a `.ini` file (e.g.: `configuration.ini`) and put it in the same directory as the `.ttf` font files.
+2. Create a folder named `XTMP` inside `BepInEx/plugins`. Download `XTMP.dll` and `XTMP.pdb` from the [XTMP repository](https://github.com/kawalain/XTMP/releases/latest) and place them in the newly-created folder.
+3. Download the `.ttf` font files ([here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts/releases/latest)) and place them in the `XTMP` folder.
+4. Write a configuration file as provided below, then save it as a `.ini` file (e.g.: `configuration.ini`) and place it in the same folder.
 ```
 Retro Gaming Plus
 
