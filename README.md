@@ -6,6 +6,8 @@ These fonts are intended to be metrically-compatible fallback fonts for Casualti
 
 You will need to have XTMP already set up in order to add fallback fonts into the game.
 
+Though, feel free to use the fonts for other purposes as well.
+
 
 ## Usage guide
 
