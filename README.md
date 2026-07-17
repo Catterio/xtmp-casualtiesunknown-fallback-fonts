@@ -13,7 +13,7 @@ Though, feel free to use the fonts for other purposes as well.
 
 1. Install the [BepInEx](https://github.com/BepInEx/BepInEx/releases) plugin. (Refer to this [KrokMP installation tutorial](https://youtu.be/heVTSZc2a20) for instructions on how to set up BepInEx.)
 2. Create a folder named `XTMP` inside `BepInEx/plugins`. Download `XTMP.dll` and `XTMP.pdb` from the [XTMP repository](https://github.com/kawalain/XTMP/releases/latest) and place them in the newly-created folder.
- > In the case of kawalain's XTMP repository going offline, the necessary files are provided in the latest release, in which case, you can download the files from there.
+ > In the case of kawalain's XTMP repository going offline, the necessary files are provided in the latest release, in which case, you can download them from there.
 3. Download the `.ttf` font files ([here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts/releases/latest)) and place them in the `XTMP` folder.
 4. Write a configuration file as provided below, then save it as a `.ini` file (e.g.: `configuration.ini`) and place it in the same folder.
 ```
