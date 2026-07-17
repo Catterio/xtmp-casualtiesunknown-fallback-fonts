@@ -47,6 +47,7 @@ BepInEx/plugins/XTMP/
 ├── I-pixel-u Plus.ttf
 └── Retro Gaming Plus.ttf
 ```
+ If done right, C:U should now appropriately use the fallback fonts as intended the next you start the game.
 
 
 ## Supported languages
