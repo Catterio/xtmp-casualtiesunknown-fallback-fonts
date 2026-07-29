@@ -14,9 +14,11 @@ Though, feel free to use the fonts for other purposes as well.
 ## Usage guide/Instruction
 
 1. Install the [BepInEx](https://github.com/BepInEx/BepInEx/releases) plugin. (Refer to this [KrokMP installation tutorial](https://youtu.be/heVTSZc2a20) for instructions on how to set up BepInEx.)
-2. Create a folder named `XTMP` inside `BepInEx/plugins`. Download `XTMP.dll` and `XTMP.pdb` from the [XTMPi repository](https://github.com/EnineStuxnet/XTMPi/releases/latest) and place them in the newly-created folder.
-3. Download the `fonts.zip` zip file ([here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts/releases/latest)) and extract the contents in the `XTMP` folder.
-4. Write a configuration file (using a text-writing program like Notepad) as provided below, then save it as a `.ini` file (e.g.: `configuration.ini`) in the `XTMP` folder.
+2. Create a folder named `XTMP` inside `BepInEx/plugins`.
+3. Download the zip file from [XTMPi repository](https://github.com/EnineStuxnet/XTMPi/releases/latest). Within the zip file, copy **only** the files `XTMP**.dll**` and `XTMP**.pdb**` inside `BepInEx/plugins/XTMP`.
+4. Return to your newly-created `XTMP` folder (from step 2) and paste in the two above files.
+5. Download the `fonts.zip` zip file ([here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts/releases/latest)) and extract the contents in the `XTMP` folder.
+6. Write a configuration file (using a text-writing program like Notepad) as provided below, then save it as a `.ini` file (e.g.: `configuration.ini`) in the `XTMP` folder.
 ```
 # GLOBAL FALLBACK FONT
 Retro Gaming Plus
