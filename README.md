@@ -65,12 +65,15 @@ BepInEx/plugins/XTMP/
 105 total languages are supported by all fonts:
 
   • **Latin script:** Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Breton, Catalan, Chiga, Colognian, Cornish, Croatian, Czech, Danish, Dutch, Embu, English, Esperanto, Estonian, Faroese Filipino, Finnish, French, Friulian, Galician, Ganda, German, Gusii, Hungarian, Icelandic, Inari Sami, Indonesian, Irish, Italian, Jola-Fonyi, Kabuverdianu, Kalaallisut, Kalenjin, Kamba, Kikuyu, Kinyarwanda, Latvian, Lithuanian, Lower Sorbian, Luo, Luxembourgish, Luyia, Machame, Makhuwa-Meetto, Makonde, Malagasy, Maltese, Manx, Meru, Morisyen, Northern Sami, North Ndebele, Norwegian Bokmål, Norwegian Nynorsk, Nyankole, Oromo, Polish, Portuguese, Quechua, Romanian, Romansh, Rombo, Rundi, Rwa, Samburu, Sango, Sangu, Scottish Gaelic, Sena, Serbian (Latin), Shambala, Shona, Slovak, Slovenian, Soga, Somali, Spanish, Swahili, Swedish, Swiss German, Taita, Teso, Turkish, Upper Sorbian, Uzbek (Latin), Vietnamese, Volapük, Vunjo, Walser, Welsh, Western Frisian, Zulu.
+  
   • **Cyrillic script:** Belarusian, Bosnian, Bulgarian, Chechen, Macedonian, Russian, Serbian (Cyrillic), Ukrainian.
 
 Additional languages supported by Retro Gaming Plus and I-pixel-u Plus: 
 
   • **Latin script:** Aghem, Akan, Asturian, Bafia, Basaa, Duala, Ewe, Ewondo, Fulah, Igbo, Kabyle, Kako, Koyraboro Senni, Kwasio, Langi, Lingala, Luba-Katanga, Masai, Metaʼ, Mundang, Nama, Ngiemboon, Ngomba, Nuer, Prussian, Tachelhit, Tasawaq, Yangben, Yoruba, Zarma.
+  
   • **Cyrillic script:** Azerbaijani, Ossetic, Sakha, Uzbek.
+  
   • **Greek**.
 
 *These numbers were taken from running the fonts through [fontdrop.info's Language Report](https://fontdrop.info/#/languages?darkmode=true).* 
