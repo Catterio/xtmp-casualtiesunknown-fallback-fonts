@@ -78,7 +78,7 @@ Additional languages supported by Retro Gaming Plus and I-pixel-u Plus:
   
 > **Greek**.
 
-*These numbers were taken from running the fonts through [fontdrop.info's Language Report](https://fontdrop.info/#/languages?darkmode=true).* 
+*This was taken from running the fonts through [fontdrop.info's Language Report](https://fontdrop.info/#/languages?darkmode=true).* 
 
 
 ## Credits
