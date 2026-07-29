@@ -54,7 +54,7 @@ BepInEx/plugins/XTMP/
 │   ├── DuneOrange_B Plus.ttf
 │   ├── ExperimentIEatCrayons Plus.ttf
 │   ├── I-pixel-u Plus.ttf
-│   ├── MilkyOnlyYou Plus.otf
+│   ├── MilkyOnlyYou Plus.ttf
 │   └── Retro Gaming Plus.ttf
 ├── XTMP.dll
 └── XTMP.pdb
