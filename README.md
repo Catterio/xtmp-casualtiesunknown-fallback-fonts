@@ -11,7 +11,7 @@ You will need to have XTMPi (formerly XTMP) already set up in order to add fallb
 Though, feel free to use the fonts for other purposes as well.
 
 
-## Usage guide
+## Usage guide/Instruction
 
 1. Install the [BepInEx](https://github.com/BepInEx/BepInEx/releases) plugin. (Refer to this [KrokMP installation tutorial](https://youtu.be/heVTSZc2a20) for instructions on how to set up BepInEx.)
 2. Create a folder named `XTMP` inside `BepInEx/plugins`. Download `XTMP.dll` and `XTMP.pdb` from the [XTMPi repository](https://github.com/EnineStuxnet/XTMPi/releases/latest) and place them in the newly-created folder.
