@@ -85,14 +85,14 @@ Additional languages supported by Retro Gaming Plus and I-pixel-u Plus:
 
 Expanding language support for all fonts shown here was done by Catterio.
 
-_I-pixel-u_ Plus was made by Catterio (independent of _I pixel u_).
+I-pixel-u Plus was made by Catterio (independent of _I pixel u_).
 
-_Retro Gaming_ was made by Daydarius, [published on dafont.com](https://www.dafont.com/retro-gaming.font).
+Retro Gaming was made by Daydarius, [published on dafont.com](https://www.dafont.com/retro-gaming.font).
 
-_I pixel u_ was made by rodrigosrtz, [first published on FontStuct.com](fontstruct.com/fontstructions/show/1146323/i_pixel_u).
+I pixel u was made by rodrigosrtz, [first published on FontStuct.com](fontstruct.com/fontstructions/show/1146323/i_pixel_u).
 
-_i eat crayons_ was made by FontPanda, [published on dafont.com](https://www.dafont.com/i-eat-crayons.font).
+i eat crayons was made by FontPanda, [published on dafont.com](https://www.dafont.com/i-eat-crayons.font).
 
-_Only You_ was made by Gratisan; [published on dafont.com](https://www.dafont.com/only-you-2.font).
+Only You was made by Gratisan; [published on dafont.com](https://www.dafont.com/only-you-2.font).
 
-_Orange Book_ was made by Remedy667; [published on dafont.com](https://www.dafont.com/orange-book.font).
+Orange Book was made by Remedy667; [published on dafont.com](https://www.dafont.com/orange-book.font).
