@@ -55,8 +55,8 @@ BepInEx/plugins/XTMP/
 └── fonts/
     ├── DuneOrange_B Plus.ttf
     ├── ExperimentIEatCrayons Plus.ttf
-    ├── MilkyOnlyYou Plus.otf
     ├── I-pixel-u Plus.ttf
+    ├── MilkyOnlyYou Plus.otf
     └── Retro Gaming Plus.ttf
 ```
  If done correctly, C:U should now appropriately use the fallback fonts as intended the next you start the game.
