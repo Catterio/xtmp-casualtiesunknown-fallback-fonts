@@ -57,7 +57,7 @@ BepInEx/plugins/XTMP/
 │   ├── MilkyOnlyYou Plus.otf
 │   └── Retro Gaming Plus.ttf
 ├── XTMP.dll
-├── XTMP.pdb
+└── XTMP.pdb
 ```
  If done correctly, C:U should now appropriately use the fallback fonts as intended the next you start the game.
 
