@@ -101,7 +101,7 @@ Additional languages supported by Bexpie, Bexpie UI and Bexpie Tiny:
 
 Expanding language support for all fonts shown here was done by Catterio.
 
-Bexpie UI and Bexpie Tiny was made by Catterio.
+Bexpie, Bexpie UI and Bexpie Tiny was made by Catterio.
 
 I-pixel-u Plus was made by Catterio (independent of _I pixel u_).
 
