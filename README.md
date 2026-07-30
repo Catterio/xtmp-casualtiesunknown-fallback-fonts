@@ -39,15 +39,10 @@ The Bexpie fonts were originally developed as my means of having a personalised 
 Bexpie UI
 
 
-# RETRO GAMING-TARGETTED FALLBACK FONT
-[Retro Gaming]
-Bexpie UI
-
-[Retro GamingPix]
-Bexpie UI
-
-[Retro Gaming SDF]
-Bexpie UI
+# RETRO GAMING REPLACEMENT FONT
+[Retro Gaming -> Bexpie UI]
+[Retro GamingPix -> Bexpie UI]
+[Retro Gaming SDF -> Bexpie UI]
 
 
 # HEALTH PANEL REPLACEMENT FONT
