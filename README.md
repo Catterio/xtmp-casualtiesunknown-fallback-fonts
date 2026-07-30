@@ -1,6 +1,6 @@
 # XTMP Fallback Fonts for Casualties: Unknown
 
-![Preview: Main UI fonts](preview.png)
+![Preview: Main UI fonts](preview0.png)
 
 ![Preview: Survivor note fonts](preview1.png)
 
