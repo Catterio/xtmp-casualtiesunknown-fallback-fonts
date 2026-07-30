@@ -1,14 +1,28 @@
-# XTMP Fallback Fonts for Casualties: Unknown
+# XTMP Alternative/Replacement Fonts for Casualties: Unknown
 
-![Preview: Main UI fonts](preview0.png)
-![Preview: Survivor note fonts](preview1.png)
 
-These fonts are intended to be metrically-compatible fallback fonts for Casualties: Unknown, where most fonts used in the game have extended language support, covering a ton more languages. For more info about the languages supported, check [here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts#supported-languages).
+This is a branch of [XTMP Fallback Fonts for Casualties: Unknown](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts). The Bexpie fonts are intended to be alternative/replacement fonts for the ones used for the primary User Interface and the Health panel. Both Bexpie fonts have the same language coverage as Retro Gaming Plus and I-pixel-u Plus. For more info about that, check [here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts#supported-languages).
+
+Alongside that, the survivor note fonts from the main branch will also be included here.
 
 You will need to have XTMPi (formerly XTMP) already set up in order to add fallback fonts into the game.
 
 Though, feel free to use the fonts for other purposes as well.
 
+
+## About the Bexpie fonts
+
+The Bexpie fonts were originally developed as my means of having a personalised aesthetics for the game. They also came with providing more legibility in mind.
+
+• Bexpie: The same as Bexpie UI, but with less tracking; meant to be used for any other purposes.
+
+• Bexpie UI: Alternative/direct replacement for Retro Gaming, and was made from scratch; meant to only be used in the game.
+![a](preview2a.png)
+![a](preview2b.png)
+
+• Bexpie Tiny: Alternative/direct replacement for I-pixel-u (font used for the Health panel). The numerals were redesigned and made tabular (the numbers all have the same width), the height of lowercase set of the font is 1px higher than I-pixel-u, and the uppercase set was also redesigned.
+![a](preview3a.png)
+![a](preview3b.png)
 
 ## Usage guide/Instruction
 
@@ -16,26 +30,27 @@ Though, feel free to use the fonts for other purposes as well.
 2. Create a folder named `XTMP` inside `BepInEx/plugins`.
 3. Download the zip file from [XTMPi repository](https://github.com/EnineStuxnet/XTMPi/releases/latest). Within the zip file, copy **only** the files `XTMP.dll` and `XTMP.pdb` inside `BepInEx/plugins/XTMP`.
 4. Return to your newly-created `XTMP` folder (from step 2) and paste in the two above files.
-5. Download the `fonts.zip` zip file ([here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts/releases/latest)) and extract the contents in the same folder.
+5. Download the `fonts_Bexpie.zip` zip file ([here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts/releases/tag/Bexpie/latest)) and extract the contents in the same folder.
 6. Write a configuration file (using a text-writing program like Notepad) as provided below, then save it as a `.ini` file (e.g.: `configuration.ini`) in the `XTMP` folder.
 ```
 # GLOBAL FALLBACK FONT
-Retro Gaming Plus
+Bexpie UI
 
 
 # RETRO GAMING-TARGETTED FALLBACK FONT
 [Retro Gaming]
-Retro Gaming Plus
+Bexpie UI
 
 [Retro GamingPix]
-Retro Gaming Plus
+Bexpie UI
 
 [Retro Gaming SDF]
-Retro Gaming Plus
+Bexpie UI
 
 
 # HEALTH PANEL REPLACEMENT FONT
-[I-pixel-u -> I-pixel-u Plus]
+[I-pixel-u -> Bexpie Tiny]
+
 
 # SURVIVOR NOTE FONT REPLACEMENT 
 [ExperimentIEatCrayons -> ExperimentIEatCrayons Plus]
@@ -69,7 +84,7 @@ BepInEx/plugins/XTMP/
   
 > **Cyrillic script:** Belarusian, Bosnian, Bulgarian, Chechen, Macedonian, Russian, Serbian (Cyrillic), Ukrainian.
 
-Additional languages supported by Retro Gaming Plus and I-pixel-u Plus: 
+Additional languages supported by Bexpie, Bexpie UI and Bexpie Tiny: 
 
 > **Latin script:** Aghem, Akan, Asturian, Bafia, Basaa, Duala, Ewe, Ewondo, Fulah, Igbo, Kabyle, Kako, Koyraboro Senni, Kwasio, Langi, Lingala, Luba-Katanga, Masai, Metaʼ, Mundang, Nama, Ngiemboon, Ngomba, Nuer, Prussian, Tachelhit, Tasawaq, Yangben, Yoruba, Zarma.
   
@@ -83,6 +98,8 @@ Additional languages supported by Retro Gaming Plus and I-pixel-u Plus:
 ## Credits
 
 Expanding language support for all fonts shown here was done by Catterio.
+
+Bexpie UI and Bexpie Tiny was made by Catterio.
 
 I-pixel-u Plus was made by Catterio (independent of _I pixel u_).
 
