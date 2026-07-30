@@ -1,7 +1,7 @@
 # XTMP Alternative/Replacement Fonts for Casualties: Unknown
 
 
-This is a branch of [XTMP Fallback Fonts for Casualties: Unknown](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts). The Bexpie fonts are intended to be alternative/replacement fonts for the ones used for the primary User Interface and the Health panel. Both Bexpie fonts have the same language coverage as Retro Gaming Plus and I-pixel-u Plus. For more info about that, check [here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts#supported-languages).
+This is a branch of [XTMP Fallback Fonts for Casualties: Unknown](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts). The Bexpie fonts are intended to be alternative/replacement fonts for the ones used for the primary User Interface and the Health panel. Both Bexpie fonts have the same language coverage as Retro Gaming Plus and I-pixel-u Plus. For more info about that, check [here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts/tree/Bexpie#supported-languages).
 
 Alongside that, the survivor note fonts from the main branch will also be included here.
 
