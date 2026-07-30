@@ -1,7 +1,6 @@
 # XTMP Fallback Fonts for Casualties: Unknown
 
 ![Preview: Main UI fonts](preview0.png)
-
 ![Preview: Survivor note fonts](preview1.png)
 
 These fonts are intended to be metrically-compatible fallback fonts for Casualties: Unknown, where most fonts used in the game have extended language support, covering a ton more languages. For more info about the languages supported, check [here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts#supported-languages).
