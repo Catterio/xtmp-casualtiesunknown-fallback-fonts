@@ -16,7 +16,7 @@ Though, feel free to use the fonts for other purposes as well.
 2. Create a folder named `XTMP` inside `BepInEx/plugins`.
 3. Download the zip file from [XTMPi repository](https://github.com/EnineStuxnet/XTMPi/releases/latest). Within the zip file, copy **only** the files `XTMP.dll` and `XTMP.pdb` inside `BepInEx/plugins/XTMP`.
 4. Return to your newly-created `XTMP` folder (from step 2) and paste in the two above files.
-5. Download the `fonts.zip` zip file ([here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts/releases/latest)) and extract the contents in the same folder.
+5. Download the `fonts.zip` zip file ([here](https://github.com/Catterio/xtmp-casualtiesunknown-fallback-fonts/releases/tag/Main/latest)) and extract the contents in the same folder.
 6. Write a configuration file (using a text-writing program like Notepad) as provided below, then save it as a `.ini` file (e.g.: `configuration.ini`) in the `XTMP` folder.
 ```
 # GLOBAL FALLBACK FONT
