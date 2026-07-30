@@ -17,10 +17,12 @@ The Bexpie fonts were originally developed as my means of having a personalised 
 • Bexpie: The same as Bexpie UI, but with less tracking; meant to be used for any other purposes.
 
 • Bexpie UI: Alternative/direct replacement for Retro Gaming, and was made from scratch; meant to only be used in the game.
+
 ![a](preview2a.png)
 ![a](preview2b.png)
 
 • Bexpie Tiny: Alternative/direct replacement for I-pixel-u (font used for the Health panel). The numerals were redesigned and made tabular (the numbers all have the same width), the height of lowercase set of the font is 1px higher than I-pixel-u, and the uppercase set was also redesigned.
+
 ![a](preview3a.png)
 ![a](preview3b.png)
 
