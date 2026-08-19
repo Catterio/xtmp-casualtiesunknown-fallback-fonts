@@ -98,6 +98,4 @@ Orange Book was made by Remedy667; [published on dafont.com](https://www.dafont.
 
 <br/>
 
-## References
-
 [^1]: This was taken from running the fonts through [fontdrop.info's Language Report](https://fontdrop.info/#/languages?darkmode=true).
