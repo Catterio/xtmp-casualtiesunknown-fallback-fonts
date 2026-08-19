@@ -93,6 +93,5 @@ i eat crayons was made by FontPanda, [published on dafont.com](https://www.dafon
 Only You was made by Gratisan; [published on dafont.com](https://www.dafont.com/only-you-2.font).<br/>
 Orange Book was made by Remedy667; [published on dafont.com](https://www.dafont.com/orange-book.font).
 
-<br/>
 
 [^1]: This was taken from running the fonts through [fontdrop.info's Language Report](https://fontdrop.info/#/languages?darkmode=true).
