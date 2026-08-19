@@ -9,7 +9,6 @@ You will need to have XTMPi (formerly XTMP) already set up in order to add fallb
 
 Shout out to the Korean translation community for providing materials that made this possible!
 
-<br/>
 
 ## Usage guide/Instruction
 
@@ -68,7 +67,6 @@ BepInEx/plugins/XTMP/
 ```
  If done correctly, C:U should now appropriately use the fallback fonts as intended the next you start the game.
 
-<br/>
 
 ## Supported languages[^1]
 
@@ -83,7 +81,6 @@ Additional 35 languages supported by Retro Gaming Plus and I-pixel-u Plus:
  - **Cyrillic script:** Azerbaijani, Ossetic, Sakha, Uzbek (Cyrillic).<br/>
  - And **Greek**.
 
-<br/>
 
 ## Attribution & font sources
 
