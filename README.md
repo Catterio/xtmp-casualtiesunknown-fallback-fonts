@@ -9,6 +9,8 @@ You will need to have XTMPi (formerly XTMP) already set up in order to add fallb
 
 Though, feel free to use the fonts for other purposes as well.
 
+Shout out to the Korean translation community for providing materials that made this possible!
+
 
 ## Usage guide/Instruction
 
